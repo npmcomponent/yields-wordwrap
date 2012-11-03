@@ -1,4 +1,3 @@
-
 # wordwrap
 
   wordwrap
@@ -23,7 +22,7 @@ wordwrap('Hello, World!', 5);
 // > 'Hello\n, Wor\nld!'
 ```
 
-# Tests
+## Tests
 
     # make test
 
