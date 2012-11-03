@@ -6,7 +6,7 @@
   "keywords": ["wordwrap"],
   "dependencies": {},
   "development": {},
-  "license": "MIT"
+  "license": "MIT",
   "scripts": [
     "index.js"
   ]
