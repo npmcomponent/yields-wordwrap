@@ -1,0 +1,12 @@
+{
+  "name": "wordwrap-component",
+  "description": "wordwrap util",
+  "author": "Amir Abu Shareb <amir.abu.shareb@me.com>",
+  "keywords": [ "wordwrap" ],
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}

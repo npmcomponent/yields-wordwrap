@@ -1,0 +1,13 @@
+{
+  "name": "wordwrap",
+  "repo": "yields/wordwrap.js",
+  "description": "wordwrap util",
+  "version": "0.0.1",
+  "keywords": ["wordwrap"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+  "scripts": [
+    "index.js"
+  ]
+}
