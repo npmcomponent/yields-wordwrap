@@ -1,6 +1,6 @@
 {
   "name": "wordwrap",
-  "repo": "yields/wordwrap.js",
+  "repo": "yields/wordwrap",
   "description": "wordwrap util",
   "version": "0.0.1",
   "keywords": ["wordwrap"],
