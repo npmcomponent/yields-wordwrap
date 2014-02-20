@@ -1,12 +1,10 @@
 {
-  "name": "wordwrap-component",
+  "name": "yields-wordwrap",
   "description": "wordwrap util",
-  "author": "Amir Abu Shareb <amir.abu.shareb@me.com>",
-  "keywords": [ "wordwrap" ],
   "version": "0.0.1",
+  "keywords": [
+    "wordwrap"
+  ],
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  }
+  "license": "MIT"
 }
